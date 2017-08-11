@@ -1,0 +1,8 @@
+C:\Users\sa\Desktop\即删\CWebApplication1\CWebApplication1\bin\CWebApplication1.dll.config
+C:\Users\sa\Desktop\即删\CWebApplication1\CWebApplication1\bin\CWebApplication1.dll
+C:\Users\sa\Desktop\即删\CWebApplication1\CWebApplication1\bin\CWebApplication1.pdb
+C:\Users\sa\Desktop\即删\CWebApplication1\CWebApplication1\obj\Release\CWebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\sa\Desktop\即删\CWebApplication1\CWebApplication1\obj\Release\CWebApplication1.dll
+C:\Users\sa\Desktop\即删\CWebApplication1\CWebApplication1\obj\Release\CWebApplication1.pdb
+C:\Users\sa\Desktop\即删\CWebApplication1\CWebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\sa\Desktop\即删\CWebApplication1\CWebApplication1\bin\Newtonsoft.Json.xml
